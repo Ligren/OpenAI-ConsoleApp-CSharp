@@ -1,4 +1,5 @@
 *.dll
 *.cache
 /obj
+obj/
 /bin
